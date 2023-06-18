@@ -13,4 +13,6 @@ Key Features:
 
 5. Calculate Change: Once the user selects a menu item, the program will calculate the change by subtracting the menu item price from the initial balance.
 
-6. Display Change: The program will display the calculated change to the user, indicating the amount and denomination of each coin or bill.
+6. Display Change: The program will display the calculated change to the user.
+
+To RUN: open terminal and run "node project.js"
